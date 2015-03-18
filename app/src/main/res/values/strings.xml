@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="wenku8_base_url">http://www.wenku8.cn/</string>
+    <string name="recent_url_need_pagenum">modules/article/toplist.php?sort=lastupdate&amp;page=</string>
+    <string name="charset">gbk</string>
+    <string name="app_name">Wenku8</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="recent_update">最近更新</string>
+    <string name="collect">最多收藏</string>
+    <string name="anime">动画化</string>
+    <string name="search">搜索</string>
+    <string name="title_activity_book">Book</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_content">Content</string>
+
+</resources>
